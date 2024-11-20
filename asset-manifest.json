@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/edusify/static/css/main.072c9ff9.css",
-    "main.js": "/edusify/static/js/main.b7b3302c.js",
+    "main.css": "/edusify/static/css/main.5157cf5e.css",
+    "main.js": "/edusify/static/js/main.ebef211d.js",
     "static/js/453.4cd3d159.chunk.js": "/edusify/static/js/453.4cd3d159.chunk.js",
     "static/media/college-video.mp4": "/edusify/static/media/college-video.50f27a2785483574c5e6.mp4",
     "static/media/hero.png": "/edusify/static/media/hero.1c44fc731e824d345d6b.png",
@@ -18,12 +18,12 @@
     "static/media/user-4.png": "/edusify/static/media/user-4.50ce69a0306667eba2c1.png",
     "static/media/user-1.png": "/edusify/static/media/user-1.1f46bb883fe387830efd.png",
     "index.html": "/edusify/index.html",
-    "main.072c9ff9.css.map": "/edusify/static/css/main.072c9ff9.css.map",
-    "main.b7b3302c.js.map": "/edusify/static/js/main.b7b3302c.js.map",
+    "main.5157cf5e.css.map": "/edusify/static/css/main.5157cf5e.css.map",
+    "main.ebef211d.js.map": "/edusify/static/js/main.ebef211d.js.map",
     "453.4cd3d159.chunk.js.map": "/edusify/static/js/453.4cd3d159.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.072c9ff9.css",
-    "static/js/main.b7b3302c.js"
+    "static/css/main.5157cf5e.css",
+    "static/js/main.ebef211d.js"
   ]
 }
